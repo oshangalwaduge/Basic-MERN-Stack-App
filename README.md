@@ -21,3 +21,4 @@ To run it locally -
 ### Steps to run in production mode:-
 Follow steps 1 & 3-7 for running in production mode.
 This time go to `http://localhost:5000` to see the application running.
+Test
